@@ -1,0 +1,16 @@
+node_modules/
+dist/
+coverage/
+.env
+.env.*
+!.env.example
+*.log
+.DS_Store
+.vscode/
+.idea/
+backend/uploads/
+ml-service/models/*.pkl
+ml-service/models/*.joblib
+__pycache__/
+.pytest_cache/
+.venv/
